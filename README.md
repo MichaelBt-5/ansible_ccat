@@ -1,1 +1,4 @@
-This is the git repository for my Ansible Core and Advanced Concepts course
+# ansible-3h
+# these files are demo files for my ansible in 3 hours session
+# on safaribooksonline. 
+
